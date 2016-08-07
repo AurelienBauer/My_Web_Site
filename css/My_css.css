@@ -1,0 +1,55 @@
+.text-orange {
+    color: #ffab40;
+}
+
+.marg_r_30 {
+    margin-right: 30px;
+}
+
+.marg_r_10 {
+    margin-right: 10px;
+}
+
+.marg_t_10 {
+    margin-top: 10px;
+}
+
+.marg_l_40 {
+    margin-left: 40px;
+}
+
+.marg_b_30 {
+    margin-bottom: 30px;
+}
+
+.marg_b_8 {
+    margin-bottom: 8px;
+}
+
+.marg_b_4 {
+    margin-bottom: 4px;
+}
+
+.marg_b_2 {
+    margin-bottom: 2px;
+}
+
+.marg_b_1 {
+    margin-bottom: 1px;
+}
+
+.border_b_1 {
+    border-bottom: 1px solid #ffab40;
+}
+
+.sub-title {
+    font-size: 20px;
+}
+
+.inline {
+    display: inline;
+}
+
+.info_list {
+    font-size: small;
+}
