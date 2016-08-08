@@ -6,6 +6,10 @@ $(document).ready(function(){
     $('.parallax').parallax();
 });
 
+$(document).ready(function(){
+    $('.tooltipped').tooltip({delay: 50});
+});
+
 function print_stars(param, id) {
     var param_array = JSON.parse(param);;
     var elem = document.getElementById(id);
