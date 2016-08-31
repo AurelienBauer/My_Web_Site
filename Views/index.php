@@ -1,16 +1,15 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
+<?php
+include_once ("../Model.php");
+include_once ("../Controller.php");
+include_once ("../View.php");
 
-    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="../css/materialize.min.css"  media="screen,projection"/>
-    <link type="text/css" rel="stylesheet" href="../css/My_css.css"  media="screen,projection"/>
+$model = new Model();
+$controller = new Controller($model);
+$View = new View($model, $controller);
+?>
+<?= $View->importStylesheet(['My_css.css']) ?>
+<?= $View->displayNavBar() ?>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Aurelien Bauer</title>
-</head>
-<body>
-<?php  include("nav_bar.php"); ?>
 <div class="parallax-container">
     <div class="parallax"><img src="../pictures/parallax_1.jpg"></div>
 </div>
@@ -216,10 +215,9 @@
     <div class="parallax"><img src="../pictures/Android_wallpaper.jpg"></div>
 </div>
 
-<?php include("footer.php");?>
 
-<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="../js/materialize.min.js"></script>
-<script type="text/javascript" src="../js/js_file.js"></script>
+<?= $View->displayFooter() ?>
+<?= $View->importJsFiles(['js_file.js']) ?>
+
 </body>
 </html>
