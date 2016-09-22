@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col l6 s12">
                 <h5 class="white-text">Mes Projets</h5>
-                <p class="grey-text text-lighten-4">Coming soon.</p>
+                <a href="the-dark-side-of-the-moon.php"><p class="grey-text text-lighten-4">Test SVG (the dark side of the moon PK)</p></a>
             </div>
             <div class="col l4 offset-l2 s12">
                 <h5 class="white-text">Retrouvez moi sur :</h5>
@@ -19,5 +19,7 @@
         <div class="container" style="height: 30px"></div>
     </div>
 </footer>
+</body>
+</html>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script type="text/javascript" src="../js/materialize.js"></script>

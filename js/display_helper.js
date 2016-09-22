@@ -17,3 +17,7 @@ function print_stars(param, id) {
         }
     }
 }
+
+function getScreenWidth() {
+    return screen.width;
+}

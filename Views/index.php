@@ -187,8 +187,10 @@ $View = new View($model, $controller);
                     <img src="../pictures/Queen.png" alt="" class="circle responsive-img" >
                 </div>
                 <div class="col S12 m6 l4 center">
-                    <h5 class="text-orange">Pink Floyd</h5>
-                    <img src="../pictures/pink-floyd.png" alt="" class="circle responsive-img" >
+                    <a href="the-dark-side-of-the-moon.php">
+                        <h5 class="text-orange">Pink Floyd</h5>
+                        <img src="../pictures/pink-floyd.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="CLICK !" >
+                    </a>
                 </div>
             </div>
 

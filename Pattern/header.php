@@ -8,5 +8,5 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Aurelien Bauer</title>
 </head>
-
+<body>
 <script type="text/javascript" src="../js/display_helper.js"></script>

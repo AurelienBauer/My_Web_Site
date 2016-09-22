@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.page-foot {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+#thedarkside {
+    width: 100%;
+    height: 3000px;
+}
+
+.pos_fixe{
+    position: fixed;
+}
+
+.marg_l_42P{
+    margin-left: 42%;
+}
+
+#mySVG {
+    margin-left: 34%;
+    width: 600px;
+    height: 500px;
+}
