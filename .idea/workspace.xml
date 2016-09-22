@@ -2,61 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f14468-a645-4d21-aff4-fcc2ebcf332e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Views/the-dark-side-of-the-moon.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/TheDarkSideOfTheMoon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/theDarkSideOfTheMoon.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Light.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.eot" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.ttf" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff2" afterPath="$PROJECT_DIR$/fonts/roboto/Roboto-Thin.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/Android_wallpaper.jpg" afterPath="$PROJECT_DIR$/pictures/Android_wallpaper.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/GitHub-Mark.png" afterPath="$PROJECT_DIR$/pictures/GitHub-Mark.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/LinkedIn_logo_initials.png" afterPath="$PROJECT_DIR$/pictures/LinkedIn_logo_initials.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/Queen.png" afterPath="$PROJECT_DIR$/pictures/Queen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/basket_ball.png" afterPath="$PROJECT_DIR$/pictures/basket_ball.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/facebook_icon.png" afterPath="$PROJECT_DIR$/pictures/facebook_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/harry-potter.png" afterPath="$PROJECT_DIR$/pictures/harry-potter.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/imagine-dragons.png" afterPath="$PROJECT_DIR$/pictures/imagine-dragons.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/inception.jpg" afterPath="$PROJECT_DIR$/pictures/inception.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/parallax_1.jpg" afterPath="$PROJECT_DIR$/pictures/parallax_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/parallax_2.jpg" afterPath="$PROJECT_DIR$/pictures/parallax_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/pink-floyd.png" afterPath="$PROJECT_DIR$/pictures/pink-floyd.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/profil_cv_picture.jpg" afterPath="$PROJECT_DIR$/pictures/profil_cv_picture.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/ski.png" afterPath="$PROJECT_DIR$/pictures/ski.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/snowboard.png" afterPath="$PROJECT_DIR$/pictures/snowboard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/star-wars.png" afterPath="$PROJECT_DIR$/pictures/star-wars.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Views/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Views/projects.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Views/the-dark-side-of-the-moon.php" afterPath="$PROJECT_DIR$/the-dark-side-of-the-moon/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Controller.php" afterPath="$PROJECT_DIR$/Controller.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Model.php" afterPath="$PROJECT_DIR$/Model.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pattern/footer.php" afterPath="$PROJECT_DIR$/Pattern/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pattern/header.php" afterPath="$PROJECT_DIR$/Pattern/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pattern/nav_bar.php" afterPath="$PROJECT_DIR$/Pattern/nav_bar.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/View.php" afterPath="$PROJECT_DIR$/View.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/index.php" afterPath="$PROJECT_DIR$/Views/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Views/projects.php" afterPath="$PROJECT_DIR$/Views/projects.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/My_css.css" afterPath="$PROJECT_DIR$/css/My_css.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/materialize.css" afterPath="$PROJECT_DIR$/css/materialize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/materialize.min.css" afterPath="$PROJECT_DIR$/css/materialize.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/display_helper.js" afterPath="$PROJECT_DIR$/js/display_helper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/js_file.js" afterPath="$PROJECT_DIR$/js/js_file.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/materialize.js" afterPath="$PROJECT_DIR$/js/materialize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/materialize.min.js" afterPath="$PROJECT_DIR$/js/materialize.min.js" />
     </list>
     <ignored path="MyCvWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -87,28 +38,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projects.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Views/projects.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pattern/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="36">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="the-dark-side-of-the-moon.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Views/the-dark-side-of-the-moon.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the-dark-side-of-the-moon/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
@@ -159,30 +100,59 @@
       <file leaf-file-name="nav_bar.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Pattern/nav_bar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="54">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Pattern/header.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="js_file.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/js_file.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="-167">
+              <caret line="176" column="18" selection-start-line="176" selection-start-column="18" selection-end-line="176" selection-end-column="18" />
               <folding>
-                <element signature="e#0#43#0" expanded="false" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="e#931#939#0#HTML" expanded="true" />
+                <element signature="e#1901#1909#0#HTML" expanded="true" />
+                <element signature="e#1973#1979#0#HTML" expanded="true" />
+                <element signature="e#1979#1987#0#HTML" expanded="true" />
+                <element signature="e#1989#1997#0#HTML" expanded="true" />
+                <element signature="e#2032#2040#0#HTML" expanded="true" />
+                <element signature="e#2091#2097#0#HTML" expanded="true" />
+                <element signature="e#2135#2143#0#HTML" expanded="true" />
+                <element signature="e#2562#2570#0#HTML" expanded="true" />
+                <element signature="e#2972#2978#0#HTML" expanded="true" />
+                <element signature="e#3151#3157#0#HTML" expanded="true" />
+                <element signature="e#3324#3330#0#HTML" expanded="true" />
+                <element signature="e#3429#3437#0#HTML" expanded="true" />
+                <element signature="e#3859#3867#0#HTML" expanded="true" />
+                <element signature="e#3880#3888#0#HTML" expanded="true" />
+                <element signature="e#4140#4146#0#HTML" expanded="true" />
+                <element signature="e#4319#4325#0#HTML" expanded="true" />
+                <element signature="e#4483#4489#0#HTML" expanded="true" />
+                <element signature="e#4754#4762#0#HTML" expanded="true" />
+                <element signature="e#4860#4868#0#HTML" expanded="true" />
+                <element signature="e#5564#5570#0#HTML" expanded="true" />
+                <element signature="e#5889#5897#0#HTML" expanded="true" />
+                <element signature="e#5903#5911#0#HTML" expanded="true" />
+                <element signature="e#6086#6092#0#HTML" expanded="true" />
+                <element signature="e#6095#6103#0#HTML" expanded="true" />
+                <element signature="e#6274#6282#0#HTML" expanded="true" />
+                <element signature="e#6364#6370#0#HTML" expanded="true" />
+                <element signature="e#6471#6479#0#HTML" expanded="true" />
+                <element signature="e#6673#6679#0#HTML" expanded="true" />
+                <element signature="e#6691#6699#0#HTML" expanded="true" />
+                <element signature="e#6728#6734#0#HTML" expanded="true" />
+                <element signature="e#6737#6745#0#HTML" expanded="true" />
+                <element signature="e#6819#6827#0#HTML" expanded="true" />
+                <element signature="e#7257#7265#0#HTML" expanded="true" />
+                <element signature="e#7449#7457#0#HTML" expanded="true" />
+                <element signature="e#7462#7468#0#HTML" expanded="true" />
+                <element signature="e#7979#7987#0#HTML" expanded="true" />
+                <element signature="e#9861#9869#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -221,6 +191,7 @@
         <option value="$PROJECT_DIR$/css/TheDarkSideOfTheMoon.css" />
         <option value="$PROJECT_DIR$/Views/the-dark-side-of-the-moon.php" />
         <option value="$PROJECT_DIR$/Pattern/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/Pattern/nav_bar.php" />
       </list>
     </option>
@@ -280,20 +251,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="My_Web_Site" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My_Web_Site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My_Web_Site" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -421,12 +378,12 @@
       <workItem from="1470685453127" duration="2172000" />
       <workItem from="1471023728164" duration="536000" />
       <workItem from="1472587231183" duration="78000" />
-      <workItem from="1474568178097" duration="5513000" />
+      <workItem from="1474568178097" duration="6874000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45426000" />
+    <option name="totallyTimeSpent" value="46787000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,14 +549,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3438">
-          <caret line="191" column="145" selection-start-line="191" selection-start-column="145" selection-end-line="191" selection-end-column="145" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/materialize.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6588">
@@ -692,7 +641,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Views/the-dark-side-of-the-moon.php">
+    <entry file="file://$PROJECT_DIR$/the-dark-side-of-the-moon/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
@@ -709,18 +658,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pattern/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="36">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="176" column="18" selection-start-line="176" selection-start-column="18" selection-end-line="176" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="e#931#939#0#HTML" expanded="true" />
+            <element signature="e#1901#1909#0#HTML" expanded="true" />
+            <element signature="e#1973#1979#0#HTML" expanded="true" />
+            <element signature="e#1979#1987#0#HTML" expanded="true" />
+            <element signature="e#1989#1997#0#HTML" expanded="true" />
+            <element signature="e#2032#2040#0#HTML" expanded="true" />
+            <element signature="e#2091#2097#0#HTML" expanded="true" />
+            <element signature="e#2135#2143#0#HTML" expanded="true" />
+            <element signature="e#2562#2570#0#HTML" expanded="true" />
+            <element signature="e#2972#2978#0#HTML" expanded="true" />
+            <element signature="e#3151#3157#0#HTML" expanded="true" />
+            <element signature="e#3324#3330#0#HTML" expanded="true" />
+            <element signature="e#3429#3437#0#HTML" expanded="true" />
+            <element signature="e#3859#3867#0#HTML" expanded="true" />
+            <element signature="e#3880#3888#0#HTML" expanded="true" />
+            <element signature="e#4140#4146#0#HTML" expanded="true" />
+            <element signature="e#4319#4325#0#HTML" expanded="true" />
+            <element signature="e#4483#4489#0#HTML" expanded="true" />
+            <element signature="e#4754#4762#0#HTML" expanded="true" />
+            <element signature="e#4860#4868#0#HTML" expanded="true" />
+            <element signature="e#5564#5570#0#HTML" expanded="true" />
+            <element signature="e#5889#5897#0#HTML" expanded="true" />
+            <element signature="e#5903#5911#0#HTML" expanded="true" />
+            <element signature="e#6086#6092#0#HTML" expanded="true" />
+            <element signature="e#6095#6103#0#HTML" expanded="true" />
+            <element signature="e#6274#6282#0#HTML" expanded="true" />
+            <element signature="e#6364#6370#0#HTML" expanded="true" />
+            <element signature="e#6471#6479#0#HTML" expanded="true" />
+            <element signature="e#6673#6679#0#HTML" expanded="true" />
+            <element signature="e#6691#6699#0#HTML" expanded="true" />
+            <element signature="e#6728#6734#0#HTML" expanded="true" />
+            <element signature="e#6737#6745#0#HTML" expanded="true" />
+            <element signature="e#6819#6827#0#HTML" expanded="true" />
+            <element signature="e#7257#7265#0#HTML" expanded="true" />
+            <element signature="e#7449#7457#0#HTML" expanded="true" />
+            <element signature="e#7462#7468#0#HTML" expanded="true" />
+            <element signature="e#7979#7987#0#HTML" expanded="true" />
+            <element signature="e#9861#9869#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pattern/nav_bar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="54">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>

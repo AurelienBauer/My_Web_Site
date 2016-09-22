@@ -1,7 +1,7 @@
 <?php
-include_once ("../Model.php");
-include_once ("../Controller.php");
-include_once ("../View.php");
+include_once ("Model.php");
+include_once ("Controller.php");
+include_once ("View.php");
 
 $model = new Model();
 $controller = new Controller($model);
@@ -187,7 +187,7 @@ $View = new View($model, $controller);
                     <img src="../pictures/Queen.png" alt="" class="circle responsive-img" >
                 </div>
                 <div class="col S12 m6 l4 center">
-                    <a href="the-dark-side-of-the-moon.php">
+                    <a href="the-dark-side-of-the-moon">
                         <h5 class="text-orange">Pink Floyd</h5>
                         <img src="../pictures/pink-floyd.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="CLICK !" >
                     </a>
