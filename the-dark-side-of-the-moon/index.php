@@ -17,21 +17,21 @@ $View = new View($model, $controller);
 
 <?= $View->importStylesheet(['TheDarkSideOfTheMoon.css']) ?>
 <div class="navbar-fixed"><?= $View->displayNavBar() ?></div>
+<h4 class="center white-text">Scroll !</h4>
+
 <div id="thedarkside">
-    <h4 class="center white-text">Scroll !</h4>
-    <h5 class="center white-text pos_fixe marg_l_42P">The Drak Side Of The Moon</h5>
-    <svg id="mySVG" class="pos_fixe">
-        <polygon points="300,280 600,300 600,320" style="fill:red;" />
-        <polygon points="300,280 600,320 600,340" style="fill:orange;" />
-        <polygon points="300,280 600,340 600,360" style="fill:yellow;" />
-        <polygon points="300,280 600,360 600,380" style="fill:green;" />
-        <polygon points="300,280 600,380 600,400" style="fill:blue;" />
-        <polygon points="300,280 600,400 600,420" style="fill:purple;" />
-        <line id="rainbow" x1="300" y1="320" x2="600" y2="320" style="stroke:black;stroke-width:200" />
-        <line id="white_line" x1="280" y1="280" x2="0" y2="350" style="stroke:white;stroke-width:2" />
-        <path fill="black" stroke="white" stroke-width="3" id="triangle" d="M300 250 L400 400 L200 400 Z" />
+    <h5 id="title" class="white-text pos_fixe horiz_fixe_div">The Drak Side Of The Moon</h5>
+    <svg id="mySVG" class="pos_fixe horiz_fixe_div">
+        <polygon points="500,200 1000,220 1000,240" style="fill:red;" />
+        <polygon points="500,200 1000,240 1000,260" style="fill:orange;" />
+        <polygon points="500,200 1000,260 1000,280" style="fill:yellow;" />
+        <polygon points="500,200 1000,280 1000,300" style="fill:green;" />
+        <polygon points="500,200 1000,300 1000,320" style="fill:blue;" />
+        <polygon points="500,200 1000,320 1000,340" style="fill:purple;" />
+        <line id="rainbow" x1="500" y1="240" x2="1000" y2="240" style="stroke:black;stroke-width: 200" />
+        <line id="white_line" x1="480" y1="200" x2="0" y2="270" style="stroke:white;stroke-width:2" />
+        <path fill="black" stroke="white" stroke-width="3" id="triangle" d="M500 170 L600 320 L400 320 Z" />
     </svg>
 </div>
-
-<?= $View->displayFooter() ?>
+k
 <?= $View->importJsFiles(['theDarkSideOfTheMoon.js']) ?>

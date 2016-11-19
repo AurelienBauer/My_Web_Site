@@ -5,6 +5,7 @@
 (function()
 {
     var triangle = document.getElementById("triangle");
+    console.dir(triangle);
     var length1 = triangle.getTotalLength();
 
     var whiteLine = document.getElementById("white_line");
@@ -44,4 +45,11 @@
             rainbow.style.strokeDashoffset = 0;
         }
     }
+
+    if (screen.width < 1024) {
+        $('#title').removeClass("marg_l_42P");
+        $('#thedarkside').removeClass("marg_l_34P");
+    }
+
+
 })();

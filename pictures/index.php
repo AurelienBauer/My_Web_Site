@@ -11,17 +11,17 @@ $View = new View($model, $controller);
 <?= $View->displayNavBar() ?>
 
 <div class="parallax-container">
-    <div class="parallax"><img src="../pictures/parallax_1.jpg"/></div>
+    <div class="parallax"><img src="../pictures/parallax_1.jpg"></div>
 </div>
 <div class="section white" id="cv_main">
     <div class="row container">
         <h2 class="header">Mon Curriculum vitae</h2>
-        <div class="row egal_height_1">
+        <div class="row">
             <div class="col s12 l4">
-                <div class="card blue-grey darken-1" style="height: 100%">
+                <div class="card blue-grey darken-1">
                     <div class="card-content white-text">
                         <div class="center">
-                            <img src="../pictures/profil_cv_picture.jpg" alt="" class="circle responsive-img" style="width: 50%"/>
+                            <img src="../pictures/profil_cv_picture.jpg" alt="" class="circle responsive-img" style="width: 50%  ">
                             <h1 style="font-size: larger">BAUER Aur&eacute;lien</h1>
                         </div>
                         <ul>
@@ -38,19 +38,22 @@ $View = new View($model, $controller);
                     </div>
                 </div>
             </div>
-            <div class="col s12 l8 tb_margin_25">
-                <div class="card blue-grey darken-1" style="height: 100%">
+            <div class="col s12 l8">
+                <div class="card blue-grey darken-1">
                     <div class="card-content white-text">
 
                         <div class="row">
                             <div class="col s12 text-orange card-title border_b_1 marg_b_30">EXP&Eacute;RIENCES</div>
                             <ul>
                                 <li class="sub-title"><i class="material-icons">navigate_next</i>Conseiller accueil de banque
-                                    <ul class="marg_l_40 info_list flex_inline">
-                                        <li class="orange accent-2 chip">Credit Mutuel</li>
-                                        <li class="orange accent-2 chip">Herbitzheim (France)</li>
-                                        <li class="orange accent-2 chip">Emplois-jeunes</li>
-                                        <li class="orange accent-2 chip">Juillet 2015 &agrave; Septemble 2015</li>
+                                    <ul class="marg_l_40 info_list">
+                                        <li class="inline orange accent-2 chip">Credit Mutuel</li>
+                                        <li class="inline"> -&nbsp;</li>
+                                        <li class="inline orange accent-2 chip">Herbitzheim (France)</li>
+                                        <li class="inline"> -&nbsp;</li>
+                                        <li class="inline orange accent-2 chip">Emplois-jeunes</li>
+                                        <li class="inline"> -&nbsp;</li>
+                                        <li class="inline orange accent-2 chip">Juillet 2015 &agrave; Septemble 2015</li>
                                     </ul>
                                 </li>
                             </ul>
@@ -60,11 +63,14 @@ $View = new View($model, $controller);
 
                             <ul>
                                 <li class="sub-title"><i class="material-icons">navigate_next</i>R&eacute;paration et d&eacute;pannage informatique
-                                    <ul class="marg_l_40 info_list flex_inline">
-                                        <li class="orange accent-2 chip">CG informatique</li>
-                                        <li class="orange accent-2 chip">Diemeringen (France)</li>
-                                        <li class="orange accent-2 chip">Stage</li>
-                                        <li class="orange accent-2 chip">Mai 2012</li>
+                                    <ul class="marg_l_40 info_list">
+                                        <li class="inline orange accent-2 chip">CG informatique</li>
+                                        <li class="inline"> -&nbsp;</li>
+                                        <li class="inline orange accent-2 chip">Diemeringen (France)</li>
+                                        <li class="inline"> -&nbsp;</li>
+                                        <li class="inline orange accent-2 chip">Stage</li>
+                                        <li class="inline"> -&nbsp;</li>
+                                        <li class="inline orange accent-2 chip">Mai 2012</li>
                                     </ul>
                                 </li>
                             </ul>
@@ -79,9 +85,10 @@ $View = new View($model, $controller);
 
                             <ul>
                                 <li class="sub-title"><i class="material-icons">navigate_next</i>Ecole d'expertise informatique - Epitech
-                                    <ul class="marg_l_40 info_list flex_inline">
-                                        <li class="orange accent-2 chip">Strasbourg</li>
-                                        <li class="orange accent-2 chip">Depuis Septembre 2015</li>
+                                    <ul class="marg_l_40 info_list">
+                                        <li class="inline orange accent-2 chip">Strasbourg</li>
+                                        <li class="inline"> -&nbsp;</li>
+                                        <li class="inline orange accent-2 chip">Depuis Septembre 2015</li>
                                     </ul>
                                 </li>
                             </ul>
@@ -89,9 +96,10 @@ $View = new View($model, $controller);
 
                             <ul>
                                 <li class="sub-title"><i class="material-icons">navigate_next</i>Terminal scientifique - Science de l&#039;ing&eacute;nieur - Option ISN
-                                    <ul class="marg_l_40 info_list flex_inline">
-                                        <li class="orange accent-2 chip">Lyc&eacute;e George Imbert</li>
-                                        <li class="orange accent-2 chip">Septembre 2014 &agrave; Juillet 2015</li>
+                                    <ul class="marg_l_40 info_list">
+                                        <li class="inline orange accent-2 chip">Lyc&eacute;e George Imbert</li>
+                                        <li class="inline"> -&nbsp;</li>
+                                        <li class="inline orange accent-2 chip">Septembre 2014 &agrave; Juillet 2015</li>
                                     </ul>
                                 </li>
                             </ul>
@@ -114,7 +122,7 @@ $View = new View($model, $controller);
                                 <div class="row">
                                     <div class="col s12 m6 l6 marg_l_40">Unity3D</div><div class="col s12 m6 l6" id="U3D"><script>print_stars("[2, 1, 2]", "U3D")</script></div>
                                     <div class="col s12 m6 l6 marg_l_40">Sony Vegas pro</div><div class="col s12 m6 l6" id="svp"><script>print_stars("[2, 0, 3]", "svp")</script></div>
-                                    <div class="col s12 m6 l6 marg_l_40">Syst&egrave;me UNIX</div><div class="col s12 m6 l6" id="js"><script>print_stars("[4, 1, 0]", "js")</script></div>
+                                    <div class="col s12 m6 l6 marg_l_40">Syst&egrave;me UNIX</div><div class="col s10 m6 l6" id="js"><script>print_stars("[4, 1, 0]", "js")</script></div>
                                 </div>
                             </div>
 
@@ -146,7 +154,7 @@ $View = new View($model, $controller);
     </div>
 </div>
 <div class="parallax-container">
-    <div class="parallax"><img src="../pictures/parallax_2.jpg"/></div>
+    <div class="parallax"><img src="../pictures/parallax_2.jpg"></div>
 </div>
 <div class="section white">
     <div class="row container">
@@ -154,51 +162,51 @@ $View = new View($model, $controller);
         <div class="marg_l_40">
             <h4 class="border_b_1">Les Sports</h4>
             <div class="row">
-                <div class="col s12 m12 l4 center">
+                <div class="col S12 m6 l4 center">
                     <h5 class="text-orange">Basket</h5>
-                    <img src="../pictures/basket_ball.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="En club pendant 9 ans"/>
+                    <img src="../pictures/basket_ball.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="En club pendant 9 ans">
                 </div>
-                <div class="col s12 m12 l4 center">
+                <dié class="col S12 m6 l4 center">
                     <h5 class="text-orange">SnowBoard</h5>
-                    <img src="../pictures/snowboard.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="Depuis 3 ans"/>
-                </div>
-                <div class="col s12 m12 l4 center">
+                    <img src="../pictures/snowboard.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="Depuis 3 ans">
+                </dié>
+                <div class="col S12 m6 l4 center">
                     <h5 class="text-orange">Ski</h5>
-                    <img src="../pictures/ski.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="Pendant 8 ans" />
+                    <img src="../pictures/ski.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="Pendant 8 ans" >
                 </div>
             </div>
 
             <h4 class="border_b_1">Les Musiques</h4>
             <div class="row">
-                <div class="col s12 m12 l4 center">
+                <div class="col S12 m6 l4 center">
                     <h5 class="text-orange">Imagine Dragons</h5>
-                    <img src="../pictures/imagine-dragons.png" alt="" class="circle responsive-img" />
+                    <img src="../pictures/imagine-dragons.png" alt="" class="circle responsive-img" >
                 </div>
-                <div class="col s12 m12 l4 center">
+                <div class="col S12 m6 l4 center">
                     <h5 class="text-orange">Queen</h5>
-                    <img src="../pictures/Queen.png" alt="" class="circle responsive-img" />
+                    <img src="../pictures/Queen.png" alt="" class="circle responsive-img" >
                 </div>
-                <div class="col s12 m12 l4 center">
+                <div class="col S12 m6 l4 center">
                     <a href="the-dark-side-of-the-moon">
                         <h5 class="text-orange">Pink Floyd</h5>
-                        <img src="../pictures/pink-floyd.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="CLICK !" />
+                        <img src="../pictures/pink-floyd.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="CLICK !" >
                     </a>
                 </div>
             </div>
 
             <h4 class="border_b_1">Les Films</h4>
             <div class="row">
-                <div class="col s12 m12 l4 center">
+                <div class="col S12 m6 l4 center">
                     <h5 class="text-orange">Star Wars</h5>
-                    <img src="../pictures/star-wars.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="Que la force soit avec toi !"/>
+                    <img src="../pictures/star-wars.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="Que la force soit avec toi !">
                 </div>
-                <div class="col s12 m12 l4 center">
+                <div class="col S12 m6 l4 center">
                     <h5 class="text-orange">Inception</h5>
-                    <img src="../pictures/inception.jpg" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="La toupie a la fin, elle tombe ?"/>
+                    <img src="../pictures/inception.jpg" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="La toupie a la fin, elle tombe ?">
                 </div>
-                <div class="col s12 m12 l4 center">
+                <div class="col S12 m6 l4 center">
                     <h5 class="text-orange">Harry Potter</h5>
-                    <img src="../pictures/harry-potter.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="EXPELLIARMUS !"/>
+                    <img src="../pictures/harry-potter.png" alt="" class="circle responsive-img tooltipped" data-delay="50" data-tooltip="EXPELLIARMUS !">
                 </div>
             </div>
         </div>
@@ -206,7 +214,7 @@ $View = new View($model, $controller);
 </div>
 
 <div class="parallax-container">
-    <div class="parallax"><img src="../pictures/Android_wallpaper.jpg"/></div>
+    <div class="parallax"><img src="../pictures/Android_wallpaper.jpg"></div>
 </div>
 
 
