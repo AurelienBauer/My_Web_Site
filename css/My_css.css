@@ -10,12 +10,24 @@
     margin-right: 10px;
 }
 
+.marg_t_20 {
+    margin-top: 1.333rem;
+}
+
 .marg_t_10 {
     margin-top: 10px;
 }
 
 .marg_l_40 {
     margin-left: 40px;
+}
+
+.marg_l_4_3rem {
+    margin-left: 4.3rem;
+}
+
+.marg_l_3_13 {
+    margin-left: 3.13rem;
 }
 
 .marg_b_30 {
@@ -38,12 +50,32 @@
     margin-bottom: 1px;
 }
 
+.marg_0 {
+    margin: 0;
+}
+
 .border_b_1 {
     border-bottom: 1px solid #ffab40;
 }
 
+.border_l_1 {
+    border-left: 1px solid #ffab40;
+}
+
+.border_t_1 {
+    border-top: 1px solid #ffab40;
+}
+
+.border_r_1 {
+    border-right: 1px solid #ffab40;
+}
+
 .height_820 {
     height: 820px;
+}
+
+.width_21rem {
+    width: 21rem;
 }
 
 .sub-title {
@@ -83,6 +115,35 @@
 .egal_height_2{
     display: flex;
     flex-direction: column;
+}
+
+.vertical_align {
+    vertical-align: middle;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.marg_t_2rem {
+    margin-top: 2rem;
+}
+
+.cursor_pointer {
+    cursor: pointer;
+}
+
+h2 {
+    font-size: 2.20rem;
+    margin: 1rem 0 1rem 0
+}
+
+.circle_list {
+    list-style-type: circle;
+}
+
+.blue_macway{
+    background-color: #2081c5;
 }
 
 @media screen and (max-width: 992px)

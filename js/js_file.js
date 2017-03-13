@@ -4,8 +4,11 @@
 
 $(document).ready(function(){
     $('.parallax').parallax();
-});
-
-$(document).ready(function(){
     $('.tooltipped').tooltip({delay: 50});
+
+    /*var bouton = document.getElementById('button-imprimer');
+    bouton.onclick = function(e) {
+        e.preventDefault();
+        print();
+    }*/
 });

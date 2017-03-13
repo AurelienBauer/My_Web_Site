@@ -20,7 +20,7 @@ $View = new View($model, $controller);
 <h4 class="center white-text">Scroll !</h4>
 
 <div id="thedarkside">
-    <h5 id="title" class="white-text pos_fixe horiz_fixe_div">The Drak Side Of The Moon</h5>
+    <h5 id="title" class="white-text pos_fixe horiz_fixe_div">The Dark Side Of The Moon</h5>
     <svg id="mySVG" class="pos_fixe horiz_fixe_div">
         <polygon points="500,200 1000,220 1000,240" style="fill:red;" />
         <polygon points="500,200 1000,240 1000,260" style="fill:orange;" />

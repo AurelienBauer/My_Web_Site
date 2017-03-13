@@ -1,0 +1,36 @@
+nav, footer, .parallax-container, .hide_in_print, .material-tooltip {
+    display: none;
+}
+
+.profil_info {
+    width: 40%;
+    float: left;
+}
+
+.profil_exp {
+    width: 60%;
+    float: right;
+}
+
+.my_stat > div {
+    width: 300pt;
+    display: inline;
+}
+
+/*
+.my_stat > div.marg_l_40 {
+    margin-right: 250pt;
+}*/
+
+ul li {
+    list-style-type: none;
+}
+
+.circle_list {
+    list-style-type: circle;
+}
+
+.chip {
+    margin-right: 10pt;
+    margin-bottom: 5pt;
+}
